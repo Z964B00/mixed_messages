@@ -1,4 +1,6 @@
-console.log('This is a test message.')
-console.log('This is the first message on the test branch.')
-
-console.log('This is a brand new message on the first branch.')
+const messageComponents = {
+    wordOne: ['best', 'worst', 'easiest', 'hardest'],
+    wordTwo: ['learn', 'teach', 'perform', 'master'],
+    wordThree: ['JavaScript', 'woodworking', 'instructional design', 'Italian'],
+    wordFour: ['focus on errors', 'never give up', 'try and try again', 'ask for help']
+}
